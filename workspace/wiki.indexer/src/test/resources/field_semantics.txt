@@ -1,0 +1,2 @@
+STRUCTURED:title,model
+UNSTRUCTURED:text,
